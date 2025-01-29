@@ -7,7 +7,6 @@
 - 💞️ My sincere gratitude goes to my advisor ([Haifeng Zhao](https://scholar.google.com/citations?user=SWUHieAAAAAJ&hl=en) and [Dengdi Sun](https://scholar.google.com/citations?user=tuayA3cAAAAJ&hl=en)), with hopes for further success and advancement in their career in the new year.
 - 💞️ I am also deeply grateful to my co-author ([Ming-Kun Xie](https://xiemk.github.io/), [Lei Wang](https://github.com/yu-gi-oh-leilei/SpliceMix), Shuo Xu, [Bin Luo](https://scholar.google.com/citations?user=0qaDapcAAAAJ&hl=en&oi=ao), Yi Deng, [Yanping Fu](https://scholar.google.com/citations?user=40mWlDYAAAAJ&hl=en), Lixiang Jiang, etc), wishing them all the best in the year ahead.
 - 💞️ I extend my thanks to everyone who has supported me, wishing them happiness and good health in the new year.
-- 💞️ A special thank you to Mr. Sima ([Zhao Song](https://scholar.google.com/citations?user=yDZct7UAAAAJ&hl=en&oi=ao)) for his encouragement and support.
 
 
 <!---
