@@ -8,7 +8,7 @@
 - 💞️ My sincere gratitude goes to my advisor ([Haifeng Zhao](https://scholar.google.com/citations?user=SWUHieAAAAAJ&hl=en) and [Dengdi Sun](https://scholar.google.com/citations?user=tuayA3cAAAAJ&hl=en)), with hopes for further success and advancement in their career in the new year.
 - 💞️ I am also deeply grateful to my co-author ([Ming-Kun Xie](https://xiemk.github.io/), [Lei Wang](https://github.com/yu-gi-oh-leilei/SpliceMix), Shuo Xu, [Bin Luo](https://scholar.google.com/citations?user=0qaDapcAAAAJ&hl=en&oi=ao), Yi Deng, [Yanping Fu](https://scholar.google.com/citations?user=40mWlDYAAAAJ&hl=en), Lixiang Jiang, Yuguang Jin, Yufei Zhang, Xu Tang,etc), wishing them all the best in the year ahead.
 - 💞️ I am also grateful to Zhao Song for his invaluable academic guidance and inspiration.
-- 💞️ I would also like to thank my senior brother [Nie Hebing](https://scholar.google.com/citations?user=gBZHeW8AAAAJ&hl=en&oi=ao) for his inspiring guidance in life.
+- 💞️ I would also like to thank my senior brother [Hebing Nie](https://scholar.google.com/citations?user=gBZHeW8AAAAJ&hl=en&oi=ao) for his inspiring guidance in life.
 - 💞️ I extend my thanks to everyone who has supported me, wishing them happiness and good health in the new year.
 
 
